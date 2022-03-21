@@ -7,3 +7,5 @@
 ## SQL
 
 [584. Find Customer Referee (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/584.%20Find%20Customer%20Referee.sql)
+
+[578. Get Highest Answer Rate Question (medium)]()
