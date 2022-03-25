@@ -8,7 +8,7 @@
 
 [196. Delete Duplicate Emails (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/196.%20Delete%20Duplicate%20Emails.sql)
 
-[577. Employee Bonus (easy)]()
+[577. Employee Bonus (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/577.%20Employee%20Bonus.sql)
 
 [578. Get Highest Answer Rate Question (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/578.%20Get%20Highest%20Answer%20Rate%20Question.sql)
 
