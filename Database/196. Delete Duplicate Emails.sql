@@ -1,4 +1,3 @@
-
 Delete a 
 From Person 
 As a
