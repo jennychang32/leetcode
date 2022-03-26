@@ -7,6 +7,8 @@
 ## SQL
 [175. Combine Two Tables (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/175.%20Combine%20Two%20Tables.sql)
 
+[176. Second Highest Salary (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/176.%20Second%20Highest%20Salary.sql)
+
 [196. Delete Duplicate Emails (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/196.%20Delete%20Duplicate%20Emails.sql)
 
 [577. Employee Bonus (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/577.%20Employee%20Bonus.sql)
