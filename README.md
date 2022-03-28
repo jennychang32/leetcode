@@ -9,6 +9,8 @@
 
 [176. Second Highest Salary (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/176.%20Second%20Highest%20Salary.sql)
 
+[180. Consecutive Numbers (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/180.%20Consecutive%20Numbers.sql)
+
 [196. Delete Duplicate Emails (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/196.%20Delete%20Duplicate%20Emails.sql)
 
 [577. Employee Bonus (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/577.%20Employee%20Bonus.sql)
