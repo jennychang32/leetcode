@@ -9,6 +9,8 @@
 
 [176. Second Highest Salary (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/176.%20Second%20Highest%20Salary.sql)
 
+[178. Rank Scores (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/178.%20Rank%20Scores.sql)
+
 [180. Consecutive Numbers (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/180.%20Consecutive%20Numbers.sql)
 
 [181. Employees Earning More Than Their Managers (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.sql)
