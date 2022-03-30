@@ -21,6 +21,8 @@
 
 [184. Department Highest Salary (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/184.%20Department%20Highest%20Salary.sql)
 
+[185. Department Top Three Salaries (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/185.%20Department%20Top%20Three%20Salaries.sql)
+
 [196. Delete Duplicate Emails (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/196.%20Delete%20Duplicate%20Emails.sql)
 
 [577. Employee Bonus (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/577.%20Employee%20Bonus.sql)
