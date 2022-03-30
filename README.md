@@ -19,6 +19,8 @@
 
 [183. Customers Who Never Order (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/183.%20Customers%20Who%20Never%20Order.sql)
 
+[184. Department Highest Salary (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/184.%20Department%20Highest%20Salary.sql)
+
 [196. Delete Duplicate Emails (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/196.%20Delete%20Duplicate%20Emails.sql)
 
 [577. Employee Bonus (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/577.%20Employee%20Bonus.sql)
