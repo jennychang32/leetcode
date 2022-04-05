@@ -29,6 +29,8 @@
 
 [511. Game Play Analysis I (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/511.%20Game%20Play%20Analysis%20I.sql)
 
+[512. Game Play Analysis II (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/512.%20Game%20Play%20Analysis%20II.sql)
+
 [577. Employee Bonus (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/577.%20Employee%20Bonus.sql)
 
 [578. Get Highest Answer Rate Question (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/578.%20Get%20Highest%20Answer%20Rate%20Question.sql)
