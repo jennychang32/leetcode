@@ -2,6 +2,8 @@
 
 ## Python
 
+[1. Two Sum (easy)](https://github.com/jennychang32/leetcode/blob/main/python/1.%20Two%20Sum.py)
+
 [8. String to Integer (atoi) (medium)](https://github.com/jennychang32/leetcode/commit/0c013b11b9f3c7c643741f2e9314ee1b4ddaa624)
 
 [13. Roman to Integer (easy)](https://github.com/jennychang32/leetcode/blob/main/python/13.%20Roman%20to%20Integer.py)
