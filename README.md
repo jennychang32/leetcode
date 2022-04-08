@@ -31,7 +31,7 @@
 
 [197. Rising Temperature (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/197.%20Rising%20Temperature.sql)
 
-[262. Trips and Users (hard](https://github.com/jennychang32/leetcode/blob/main/Database/262.%20Trips%20and%20Users.sql)
+[262. Trips and Users (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/262.%20Trips%20and%20Users.sql)
 
 [511. Game Play Analysis I (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/511.%20Game%20Play%20Analysis%20I.sql)
 
