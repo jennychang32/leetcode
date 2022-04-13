@@ -14,7 +14,6 @@ class Solution:
                 bound = bound * 10 + x%10
                 x //= 10
             
-            print(x, bound)
             if x==bound or x==bound//10:
                 return True
             else:
