@@ -54,3 +54,5 @@
 [586. Customer Placing the Largest Number of Orders (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)
 
 [595. Big Countries (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/595.%20Big%20Countries.sql)
+
+[596. Classes More Than 5 Students (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/596.%20Classes%20More%20Than%205%20Students.sql)
