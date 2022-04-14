@@ -43,6 +43,8 @@
 
 [550. Game Play Analysis IV (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/550.%20Game%20Play%20Analysis%20IV.sql)
 
+[571. Find Median Given Frequency of Numbers (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/571.%20Find%20Median%20Given%20Frequency%20of%20Numbers.sql)
+
 [574. Winning Candidate (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/574.%20Winning%20Candidate.sql)
 
 [577. Employee Bonus (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/577.%20Employee%20Bonus.sql)
