@@ -63,4 +63,6 @@
 
 [597. Friend Requests I: Overall Acceptance Rate (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/597.%20Friend%20Requests%20I:%20Overall%20Acceptance%20Rate.sql)
 
+[603. Consecutive Available Seats (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/603.%20Consecutive%20Available%20Seats.sql)
+
 [615. Average Salary: Departments VS Company (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/615.%20Average%20Salary:%20Departments%20VS%20Company.sql)
