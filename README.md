@@ -69,4 +69,6 @@
 
 [603. Consecutive Available Seats (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/603.%20Consecutive%20Available%20Seats.sql)
 
+[607. Sales Person (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/607.%20Sales%20Person.sql)
+
 [615. Average Salary: Departments VS Company (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/615.%20Average%20Salary:%20Departments%20VS%20Company.sql)
