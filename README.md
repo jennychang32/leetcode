@@ -65,6 +65,8 @@
 
 [601. Human Traffic of Stadium (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/601.%20Human%20Traffic%20of%20Stadium.sql)
 
+[602. Friend Requests II: Who Has the Most Friends (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/602.%20Friend%20Requests%20II:%20Who%20Has%20the%20Most%20Friends.sql)
+
 [603. Consecutive Available Seats (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/603.%20Consecutive%20Available%20Seats.sql)
 
 [615. Average Salary: Departments VS Company (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/615.%20Average%20Salary:%20Departments%20VS%20Company.sql)
