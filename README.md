@@ -73,4 +73,6 @@
 
 [608. Tree Node (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/608.%20Tree%20Node.sql)
 
+[610. Triangle Judgement (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/610.%20Triangle%20Judgement.sql)
+
 [615. Average Salary: Departments VS Company (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/615.%20Average%20Salary:%20Departments%20VS%20Company.sql)
