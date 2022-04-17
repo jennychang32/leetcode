@@ -1,4 +1,5 @@
-[Method 1 (better)]
+/* Method 1 (better) */
+
 Select round(Min(Sqrt(Pow(x-x1,2)+Pow(y-y1,2))),2) as shortest
     From Point2D
 Join (
