@@ -4,7 +4,7 @@
 
 [1. Two Sum (easy)](https://github.com/jennychang32/leetcode/blob/main/python/1.%20Two%20Sum.py)
 
-[8. String to Integer (atoi) (medium)](https://github.com/jennychang32/leetcode/commit/0c013b11b9f3c7c643741f2e9314ee1b4ddaa624)
+[8. String to Integer (atoi) (medium)](https://github.com/jennychang32/leetcode/blob/main/python/8.%20String%20to%20Integer%20(atoi).py)
 
 [9. Palindrome Number (easy)](https://github.com/jennychang32/leetcode/blob/main/python/9.%20Palindrome%20Number.py)
 
