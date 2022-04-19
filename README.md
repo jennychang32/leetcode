@@ -77,4 +77,6 @@
 
 [612. Shortest Distance in a Plane (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/612.%20Shortest%20Distance%20in%20a%20Plane.sql)
 
+[613. Shortest Distance in a Line (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/613.%20Shortest%20Distance%20in%20a%20Line.sql)
+
 [615. Average Salary: Departments VS Company (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/615.%20Average%20Salary:%20Departments%20VS%20Company.sql)
