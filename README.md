@@ -82,3 +82,5 @@
 [614. Second Degree Follower (medium)](https://github.com/jennychang32/leetcode/blob/main/Database/614.%20Second%20Degree%20Follower.sql)
 
 [615. Average Salary: Departments VS Company (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/615.%20Average%20Salary:%20Departments%20VS%20Company.sql)
+
+[619. Biggest Single Number (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/619.%20Biggest%20Single%20Number.sql)
