@@ -84,3 +84,5 @@
 [615. Average Salary: Departments VS Company (hard)](https://github.com/jennychang32/leetcode/blob/main/Database/615.%20Average%20Salary:%20Departments%20VS%20Company.sql)
 
 [619. Biggest Single Number (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/619.%20Biggest%20Single%20Number.sql)
+
+[620. Not Boring Movies (easy)](https://github.com/jennychang32/leetcode/blob/main/Database/620.%20Not%20Boring%20Movies.sql)
